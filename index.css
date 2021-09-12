@@ -1,0 +1,32 @@
+
+
+
+.navegacion{
+	
+	background-color: blueviolet;
+	text-decoration-color: yellow;
+
+
+}
+
+.color{
+	text: yellow;
+}
+
+
+
+
+
+.footer {
+  text-align: center;
+  padding: 3px;
+  background-color:gray;
+  color: white;
+  top: 508px;
+  position: relative;
+  border-style: groove;
+}
+
+.card2{
+	position: relative;
+}
